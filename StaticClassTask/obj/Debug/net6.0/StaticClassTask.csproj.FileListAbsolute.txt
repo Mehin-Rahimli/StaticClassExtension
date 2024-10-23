@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\bin\Debug\net6.0\StaticClassTask.exe
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\bin\Debug\net6.0\StaticClassTask.deps.json
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\bin\Debug\net6.0\StaticClassTask.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\bin\Debug\net6.0\StaticClassTask.dll
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\bin\Debug\net6.0\StaticClassTask.pdb
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\obj\Debug\net6.0\StaticClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\obj\Debug\net6.0\StaticClassTask.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\obj\Debug\net6.0\StaticClassTask.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\obj\Debug\net6.0\StaticClassTask.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\obj\Debug\net6.0\StaticClassTask.sourcelink.json
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\obj\Debug\net6.0\StaticClassTask.dll
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\obj\Debug\net6.0\refint\StaticClassTask.dll
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\obj\Debug\net6.0\StaticClassTask.pdb
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\obj\Debug\net6.0\StaticClassTask.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\SecondProject\StaticClassTask\StaticClassTask\obj\Debug\net6.0\ref\StaticClassTask.dll
